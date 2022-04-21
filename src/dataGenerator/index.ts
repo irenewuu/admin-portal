@@ -1,4 +1,4 @@
-/* eslint-disable import/no-anonymous-default-export */
+
 import { generateSales } from './sales';
 import { generateTags } from './tags';
 import { generateCompanies } from './companies';
